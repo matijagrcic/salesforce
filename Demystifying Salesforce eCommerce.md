@@ -156,6 +156,9 @@ or programmatically using `CustomObjectMgr`
 
 Use SFRA for new sites, don't use SiteGenesis architecture.
 
+> Moving from SiteGenesis and pipelines to SFRA needs custom implementation
+> and existing connectors only provide starting point for integration.
+
 > Not using the Lighting design system
 
 [Get the SFRA Repositories from GitHub](https://documentation.b2c.commercecloud.salesforce.com/DOC2/index.jsp?topic=%2Fcom.demandware.dochelp%2FSFRA%2FSFRASetup.html)
