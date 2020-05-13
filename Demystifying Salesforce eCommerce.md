@@ -13,10 +13,10 @@
     - [OCAPI Explorer](#ocapi-explorer)
     - [Authentication](#authentication)
   - [Payments](#payments)
-  - [Extensions for VS Code](#extensions-for-vs-code)
 - [Courses](#courses)
 - [Videos](#videos)
 - [YouTube Channels](#youtube-channels)
+- [Extensions for VS Code](#extensions-for-vs-code)
 
 # Introduction
 
@@ -250,17 +250,6 @@ Oauth - Client Credentials or Business Manager login depending on the needed res
 
 > Worldpay is a leading global provider of payment and risk services, processing millions of transactions every day. We provide an end-to-end service including card acquiring, treasury, gateway, alternative payments and risk management, all of which can be accessed through a single integration.
 
-## Extensions for VS Code
-
-[Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)
-[Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
-
-[Visual Studio Code integration with Demandware A.K.A Salesforce Commerce Cloud](https://medium.com/@manusaini0088/visual-studio-code-integration-with-demandware-aka-salesforce-commerce-cloud-b2c2ff49e22b)
-
-[Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet)
-
-> A VS Code extension to work with Demandware/Salesforce Cloud code on Sandbox that support the Script Debugger API (SDAPI) 2.0
-
 # Courses
 
 [Pluralsight](https://www.pluralsight.com/browse/software-development/salesforce)
@@ -326,3 +315,14 @@ Oauth - Client Credentials or Business Manager login depending on the needed res
 [Salesforce Developers](https://www.youtube.com/user/DeveloperForce/videos)
 
 [Bay Area Salesforce Developer Group](https://www.youtube.com/channel/UCdTNaauk7anhmVfg-ulzX2Q/videos)
+
+# Extensions for VS Code
+
+[Salesforce Extensions for Visual Studio Code](https://developer.salesforce.com/tools/vscode/)
+[Salesforce Extension Pack](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode)
+
+[Visual Studio Code integration with Demandware A.K.A Salesforce Commerce Cloud](https://medium.com/@manusaini0088/visual-studio-code-integration-with-demandware-aka-salesforce-commerce-cloud-b2c2ff49e22b)
+
+[Prophet Debugger](https://marketplace.visualstudio.com/items?itemName=SqrTT.prophet)
+
+> A VS Code extension to work with Demandware/Salesforce Cloud code on Sandbox that support the Script Debugger API (SDAPI) 2.0
